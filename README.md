@@ -19,3 +19,6 @@
 위와 같은 명령어를 수행시, train_data 디렉토리에 pothole이 감지된 이미지에서 모자이크 처리된 이미지와 해당 pothole의 좌표에 대해서 정보가 있는 txt파일이 생성. 그리고 train.txt, valid.txt 및 new_Yolo.data 와 같은 파일이 생기면서 YOLO 모델에 학습에 필요한 파일이 같이 생성이 되면서 바로 모델의 재학습 과정에 진입.
 
 9. 재학습 결과는 backup 디렉토리에 nn_final.weights 파일로 저장.
+
+### 'undergradStudentProj' Dir
+> 학부생 연구자료 백업
