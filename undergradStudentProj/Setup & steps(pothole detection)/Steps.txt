@@ -1,0 +1,7 @@
+1)Arrange according to Video after running cell upto unzip photo.
+2)After Arrangement run rest of the cells till training.
+3)Upload trained weights in backup folder.
+4)Run the output result command and change name from mymodel to nn(model rename)
+5)Change images 1-161 step by step to check accuracy at end of command.
+6) thresh is already adjusted if issue occurs, then set it to 0.1
+7)Name of dataset should be "Images" not "image", as setup in the code.
