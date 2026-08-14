@@ -1,2 +1,4 @@
 **/**.jpg
 .DS_Store
+Code_Data/nn_final.weights
+undergradStudentProj/Face_dataset.zip
